@@ -58,3 +58,24 @@ h2 {
 ul {
   padding-left: 24px;
 }
+
+footer {
+  color: #f0e8c2;
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+}
+
+footer a {
+  color: #f0e8c2;
+  text-decoration: none;
+  border-bottom: 1px solid #f0e8c2;
+}
+
+footer a:hover {
+  color: #ffffff;
+  border-bottom: 1px solid #ffffff;
+}
